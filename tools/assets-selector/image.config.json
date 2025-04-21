@@ -8,6 +8,7 @@
         "delivery",
         "author"
     ],
+    "absoluteDeliveryURL":false,
     "expiryOptions": {
         "allowSelectionAndDrag": false,
     },
