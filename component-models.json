@@ -30,12 +30,16 @@
         "component": "reference",
         "name": "image",
         "label": "Image",
-        "multi": false
+        "valueType": "string",
+        "multi": false,
+        "required": true
       },
       {
         "component": "text",
         "name": "imageAlt",
-        "label": "Alt Text"
+        "label": "Alt Text",
+        "valueType": "string",
+        "required": true
       }
     ]
   },
