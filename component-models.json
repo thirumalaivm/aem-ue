@@ -240,7 +240,8 @@
       "component": "text",
       "name": "imageAlt",
       "label": "Alt Text",
-      "valueType": "string"
+      "valueType": "string",
+      "description": "text description"
     }
   ]
 }
