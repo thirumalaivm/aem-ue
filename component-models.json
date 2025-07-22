@@ -228,7 +228,7 @@
       "label": "Image",
       "configUrl": "/content/dam/sneh-demo/image.config.json",
       "valueType": "string",
-      "description": "Recommended asset type SVG."
+      "description": "Recommended asset type SVG. new"
     },
     {
       "component": "custom-asset-namespace:custom-asset-mimetype",
@@ -240,7 +240,7 @@
       "name": "imageAlt",
       "label": "Alt Text",
       "valueType": "string",
-      "description": "text description"
+      "description": "text description new"
     }
   ]
 }
