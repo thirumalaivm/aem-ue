@@ -32,7 +32,8 @@
         "label": "Image",
         "valueType": "string",
         "multi": false,
-        "required": true
+        "required": true,
+        "description":"new image desc"
       },
       {
         "component": "text",
