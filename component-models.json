@@ -228,7 +228,6 @@
       "name": "image",
       "label": "Image",
       "valueType": "string",
-      "configUrl": "/content/dam/sneh-demo/image.config.json",
       "required": true,
       "description": "Recommended asset type SVG. new"
     },
