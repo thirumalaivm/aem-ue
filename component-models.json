@@ -227,7 +227,6 @@
       "component": "custom-asset-namespace:custom-asset",
       "name": "image",
       "label": "Image",
-      "configUrl": "/content/dam/sneh-demo/image.config.json",
       "valueType": "string",
       "required": true,
       "description": "Recommended asset type SVG. new"
