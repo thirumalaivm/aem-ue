@@ -229,6 +229,7 @@
       "label": "Image",
       "valueType": "string",
       "required": true,
+      "configUrl": "/content/dam/sneh-demo/image.config.json",
       "description": "Recommended asset type SVG. new"
     },
     {
@@ -259,7 +260,7 @@
         "label": "Image 1",
         "description": "Recommended asset type SVG.",
         "placeholder": "placeholder",
-        "configUrl": "/content/dam/image.config.json",
+        "configUrl": "/content/dam/sneh-demo/image.config.json",
         "valueType": "string",
         "required": true
       },
@@ -295,7 +296,7 @@
         "label": "Image 2",
         "description": "Recommended asset type SVG.",
         "placeholder": "placeholder",
-        "configUrl": "/content/dam/image.config.json",
+        "configUrl": "/content/dam/sneh-demo/image.config.json",
         "valueType": "string"
       },
       {
