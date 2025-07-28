@@ -229,7 +229,7 @@
       "label": "Image",
       "valueType": "string",
       "required": true,
-      "configUrl": "/content/dam/sneh-demo/image.config.json",
+      "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json",
       "description": "Recommended asset type SVG. new"
     },
     {
@@ -260,7 +260,7 @@
         "label": "Image 1",
         "description": "Recommended asset type SVG.",
         "placeholder": "placeholder",
-        "configUrl": "/content/dam/sneh-demo/image.config.json",
+        "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json",
         "valueType": "string",
         "required": true
       },
@@ -296,7 +296,7 @@
         "label": "Image 2",
         "description": "Recommended asset type SVG.",
         "placeholder": "placeholder",
-        "configUrl": "/content/dam/sneh-demo/image.config.json",
+        "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json",
         "valueType": "string"
       },
       {
