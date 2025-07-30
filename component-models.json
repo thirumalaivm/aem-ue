@@ -265,11 +265,6 @@
         "required": true
       },
       {
-        "component": "custom-asset-namespace:custom-asset-mimetype",
-        "valueType": "string",
-        "name": "link1_imageMimeType"
-      },
-      {
         "component": "aem-content",
         "valueType": "string",
         "name": "link1_link",
@@ -298,11 +293,6 @@
         "placeholder": "placeholder",
         "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json",
         "valueType": "string"
-      },
-      {
-        "component": "custom-asset-namespace:custom-asset-mimetype",
-        "valueType": "string",
-        "name": "link2_imageMimeType"
       },
       {
         "component": "aem-content",
