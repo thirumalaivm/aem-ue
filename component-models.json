@@ -255,12 +255,18 @@
         "name": "tab-link1"
       },
       {
-        "component": "custom-asset-namespace:custom-asset",
-        "name": "link1_image",
-        "label": "Image 1",
-        "description": "Recommended asset type SVG.",
-        "placeholder": "placeholder",
-        "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json",
+        "component": "reference",
+        "name": "image",
+        "label": "Image",
+        "valueType": "string",
+        "multi": false,
+        "required": true,
+        "description":"new image desc"
+      },
+      {
+        "component": "text",
+        "name": "imageAlt",
+        "label": "Alt Text",
         "valueType": "string",
         "required": true
       },
@@ -286,13 +292,20 @@
         "name": "tab-link2"
       },
       {
-        "component": "custom-asset-namespace:custom-asset",
-        "name": "link2_image",
-        "label": "Image 2",
-        "description": "Recommended asset type SVG.",
-        "placeholder": "placeholder",
-        "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json",
-        "valueType": "string"
+        "component": "reference",
+        "name": "image",
+        "label": "Image",
+        "valueType": "string",
+        "multi": false,
+        "required": true,
+        "description":"new image desc"
+      },
+      {
+        "component": "text",
+        "name": "imageAlt",
+        "label": "Alt Text",
+        "valueType": "string",
+        "required": true
       },
       {
         "component": "aem-content",
