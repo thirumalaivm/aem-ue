@@ -263,6 +263,11 @@
         "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json"
       },
       {
+        "component": "custom-asset-namespace:custom-asset-mimetype",
+        "valueType": "string",
+        "name": "link1_imageMimeType"
+      },
+      {
         "component": "aem-content",
         "valueType": "string",
         "name": "link1_link",
@@ -290,6 +295,11 @@
         "description": "Recommended asset type SVG.",
         "placeholder": "placeholder",
         "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json"
+      },
+      {
+        "component": "custom-asset-namespace:custom-asset-mimetype",
+        "valueType": "string",
+        "name": "link2_imageMimeType"
       },
       {
         "component": "aem-content",
