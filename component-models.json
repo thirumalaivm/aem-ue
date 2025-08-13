@@ -258,6 +258,7 @@
         "component": "custom-asset-namespace:custom-asset",
         "name": "link1_image",
         "label": "Image 1",
+        "required": true,
         "description": "Recommended asset type SVG.",
         "placeholder": "placeholder",
         "configUrl": "https://raw.githubusercontent.com/thirumalaivm/aem-ue/refs/heads/main/tools/assets-selector/image.config.json"
